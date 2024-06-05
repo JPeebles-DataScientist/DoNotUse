@@ -22,7 +22,7 @@ This project compares the performance of four different classification models—
 
 ## Link to Notebook
 
-[Classification Models Comparison Notebook](Classification_Models_Comparison.ipynb)
+[PeeblesJ_Model_Comparison.ipynb](PeeblesJ_Model_Comparison.ipynb)
 
 ## Project Structure
 
@@ -46,4 +46,4 @@ This project compares the performance of four different classification models—
 
 ## Contact
 
-For any questions or further information, please contact James Peebles at Jamesewpeebles@gmail.com.
+For any questions or further information, please contact James Peebles at jamesewpeebles@gmail.com.
